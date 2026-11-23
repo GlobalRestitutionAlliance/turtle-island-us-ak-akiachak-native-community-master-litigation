@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+AKIACHAK+NATIVE+COMMUNITY",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+AKIACHAK+NATIVE+COMMUNITY",
+  "title": "Federal Register - AK AKIACHAK NATIVE COMMUNITY",
+  "fetched_at": "2026-11-23T15:37:27.843972Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 224331,
+  "sha256": "e389532c8aebd631af83a3fa081e32136cf987f0798b52d7bf472cf36f62de89",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
